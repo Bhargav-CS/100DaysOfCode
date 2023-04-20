@@ -1,2 +1,2 @@
 # 100DaysOfCode
-I am going to maintain this repo for 100 days and upload daily
+Let's make these 100 days count !
